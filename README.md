@@ -1,3 +1,21 @@
+## First steps to work locally with this project
+
+Local development:
+  1) yarn install
+  2) yarn pull_tools
+  3) yarn build:dev
+
+Production:
+  yarn build
+
+
+## Things added apart from original codex code <a href="https://github.com/codex-team/editor.js">
+
+1) .gitignore: dist/*
+2) disableEditableMode() method in ./src/codex.ts => export api
+  - clearFocused()
+  - hideBlockMenu()
+
 <a href="https://editorjs.io/"><p align="center"><img src="https://capella.pics/79ce946a-d636-41cd-aa96-d3bc5ecfde03.jpg"></p></a>
 
 [![](https://flat.badgen.net/npm/v/@editorjs/editorjs?icon=npm)](https://www.npmjs.com/package/@editorjs/editorjs)
