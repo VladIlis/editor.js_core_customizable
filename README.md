@@ -44,12 +44,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 <a href="https://opencollective.com/editorjs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/editorjs/sponsor/0/avatar.svg"></a>
  
- ### Backers
- 
- Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/editorjs#backer)]
- 
- <a href="https://opencollective.com/editorjs#backers" target="_blank"><img src="https://opencollective.com/editorjs/backers.svg?width=890"></a>
- 
 ### Contributors
 
 This project exists thanks to all the people who contribute. <img src="https://opencollective.com/editorjs/contributors.svg?width=890&button=false" />
@@ -266,12 +260,4 @@ Take a look at the [example.html](example/example.html) to view more detailed ex
 
 - We use [HTMLJanitor](https://github.com/guardian/html-janitor) module in our Sanitizer module. 
 
-## About team
 
-We are CodeX and we build products for developers and makers. 
-
-Follow us on Twitter: [twitter.com/codex_team](https://twitter.com/codex_team)
-
-Feel free to contact: <a href="mailto:team@codex.so?subject=Editor.js feedback">team@codex.so</a>
-
-[codex.so](https://codex.so)
